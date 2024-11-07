@@ -1,1 +1,8 @@
-[RC-krets-oblig.docx](https://github.com/user-attachments/files/17661015/RC-krets-oblig.docx)
+Projekt: RC-KRETSEN
+Gruppen:
+  David Johansen
+  David Nesje
+  Seyon Shanthan
+Kommentarer:
+-python filen inneholder grafer og data fra våre målinger
+-word filen inneholder projektbeskrivelsen
